@@ -12,4 +12,4 @@ I'm Major in HUFS_computer_science
 
 ### Contact me
 
-[email@domain.com](mailto:oceanstar7@kakao.com)
+[oceanstar7@kakao.com](mailto:oceanstar7@kakao.com)
