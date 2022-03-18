@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello I'm sungwook!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm Major in HUFS_computer_science
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:oceanstar7@kakao.com)
